@@ -1,0 +1,14 @@
+
+.receita__botao{
+   background: #8d0606;  /*Modificou a cor do botão*/
+   border:none;
+   border-radius: 5px;
+   color:#fdfdfd; /*Modificou a letra do botão*/
+   padding: 1rem;
+   transition: all .1s ease-in-out;
+}
+
+.receita__botao:hover{
+   background: #620404;
+   cursor: pointer; /*Ao passar o mouse em cima do botão, o cursor vira uma mãozinha*/
+}
